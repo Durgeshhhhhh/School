@@ -1,0 +1,31 @@
+{
+  "name": "little-orbit-preschool",
+  "version": "1.0.0",
+  "description": "Official website for Little Orbit Preschool - Pre-Primary education, admissions, and event gallery.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -l 3000 .",
+    "dev": "npx live-server --port=3000 --entry-file=index.html",
+    "open": "cmd /c start Open_Website.bat"
+  },
+  "keywords": [
+    "preschool",
+    "pre-primary",
+    "kindergarten",
+    "playgroup",
+    "nursery",
+    "education",
+    "school-website"
+  ],
+  "author": "Little Orbit Preschool",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "live-server": "^1.2.2",
+    "prettier": "^3.2.5"
+  }
+}

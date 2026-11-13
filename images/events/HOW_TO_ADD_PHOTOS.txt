@@ -1,0 +1,13 @@
+PUT YOUR SCHOOL EVENT PHOTOS HERE!
+====================================
+
+You can save your photos in this folder with convenient names like:
+- annual-day-1.jpg
+- sports-day-1.jpg
+- festival-celebration.jpg
+- daycare-play.jpg
+
+Then, in your "index.html" file, link to them like:
+<img src="images/events/annual-day-1.jpg" alt="Annual Day Dance">
+
+See the main README.md in the root folder for full instructions.
