@@ -14,7 +14,8 @@ window.APP_CONFIG = {
         whatsappRaw: "919850971075",
         email: "admissions@littleorbitpreschool.com",
         address: "Plot No. 42, Sunshine Garden Road, Near Central Park, Pune, Maharashtra 411001",
-        timings: "Mon - Fri: 8:30 AM - 1:30 PM | Sat: 9:00 AM - 12:30 PM"
+        timings: "Classes: Mon - Fri: 9:30 AM - 12:30 PM | Office: Mon - Sat: 9:00 AM - 2:00 PM",
+        instagram: "https://www.instagram.com/little_orbit_preschool_and_day?xtok=Ym9ta3hndWZ5Njlm"
     },
     dependencies: {
         tailwindcss: {

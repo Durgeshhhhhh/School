@@ -33,6 +33,8 @@ All project dependencies, external CDNs, API endpoints, school contact details, 
 | **`APP_ACADEMIC_YEAR`** | `2026-2027` | Admissions cycle |
 | **`SCHOOL_PHONE`** | `+91 93560 62067` | Contact phone |
 | **`SCHOOL_WHATSAPP`** | `+91 98509 71075` | WhatsApp click-to-chat inquiry number |
+| **`SCHOOL_INSTAGRAM`** | `little_orbit_preschool_and_day` | Official Instagram handle |
+| **`SCHOOL_OPERATING_HOURS`** | `Classes: 9:30 AM - 12:30 PM \| Office: 9:00 AM - 2:00 PM` | Daily schedule |
 | **`PORT`** | `3000` | Local development server port |
 
 ---
@@ -96,6 +98,7 @@ school/
 │   ├── config.js                # Browser-side mirror of .env parameters
 │   └── main.js                  # Gallery filter, photo Lightbox modal, FAQ accordion, tour modal
 └── images/
+    ├── logo.png                 # Official Little Orbit Preschool & Daycare logo
     ├── events/                  # Actual event photos used on the website (11 photos)
     │   ├── grand-inauguration.jpg
     │   ├── janmashtami-dahi-handi.jpg
